@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php $number = 0;
-        while($number <= 100){    
+        while($number <= 10){    
             echo '<p>'. $number .'</p>' ;
            $number++;
         }
