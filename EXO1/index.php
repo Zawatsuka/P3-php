@@ -11,6 +11,6 @@
             echo '<p>'. $number .'</p>' ;
            $number++;
         }
-            ?></p>
+            ?>
 </body>
 </html>
